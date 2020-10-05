@@ -1,6 +1,8 @@
-# app_flutter_frases_do_dia
+# Aplicativo: Frases do dia
 
-A new Flutter project.
+Gera frases aleatórias em flutter.
+
+<center><img src="home.png" width="35%"></center>
 
 ## Getting Started
 
